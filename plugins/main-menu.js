@@ -17,7 +17,8 @@ import {
   before: `
 --✦𝙼𝙾𝙷𝙲𝙸𝙽𝙴 𝚁𝙾𝙱𝙾𝚃𝙸𝙲𝚂 𝙸𝙽𝙵𝙾✦--
  ♕︎𝙷𝙸 %name ✦!!
-『ᴠᴇʀsɪᴏɴ ʙᴇᴛᴀ』
+*:صفحة صاحب الروبوت*
+- https://www.facebook.com/profile.php?id=100085874426065&mibextid=ZbWKwL
 ${ucapan()}
 -👑ɢʀᴏᴜᴘ ᴡʜᴀᴛsᴀᴘᴘ👑-
 - https://chat.whatsapp.com/KTa9hOJeYpV4SRYSFxFZrV
